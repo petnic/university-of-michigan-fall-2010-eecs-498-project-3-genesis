@@ -1,5 +1,6 @@
 class Animal extends Animate {
   //Properties
+  boolean gender;  
   int speed;
   int foodMeter;
   int foodDistance;

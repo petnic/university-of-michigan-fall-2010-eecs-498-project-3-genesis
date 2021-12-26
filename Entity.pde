@@ -1,5 +1,6 @@
 class Entity {
   //Properties  
   int x;
-  int y;  
+  int y;
+  color colorID; 
 }
