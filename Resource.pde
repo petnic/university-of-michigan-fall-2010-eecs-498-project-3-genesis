@@ -1,0 +1,3 @@
+class Resource extends Inanimate {
+  
+}

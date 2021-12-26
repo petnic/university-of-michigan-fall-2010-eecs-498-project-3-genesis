@@ -1,0 +1,3 @@
+class Omnivore extends Animal {
+  
+}

@@ -1,0 +1,3 @@
+class Nest extends Inanimate {
+  
+}
